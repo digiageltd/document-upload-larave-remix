@@ -170,7 +170,7 @@ HTTP/1.1 204 No Content
 - Vite
 - Consumes the [Laravel backend API]
 
-## 🛠️ Setup & Run 1.
+## 🛠️ Setup & Run
 ### 1. **Clone and install dependencies:**
 ```sh
   cd frontend npm install 
